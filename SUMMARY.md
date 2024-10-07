@@ -4,6 +4,7 @@
   * [Physical or Not](impact-framework/physical-or-not.md)
   * [SMART Goals](impact-framework/smart-goals.md)
 * [Interconnectedness Risk](interconnectedness-risk.md)
+* [Notes](notes.md)
 * [Financial Assessment](financial-assessment/README.md)
   * [Risk Adjustment Score](financial-assessment/risk-adjustment-score/README.md)
     * [Holding Time Score](financial-assessment/risk-adjustment-score/holding-time-score.md)
