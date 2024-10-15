@@ -4,9 +4,7 @@
 
 All impact assets currently onchain can be categorized to 1 or more of these 17 categories.
 
-```
-<iframe src="https://docs.google.com/spreadsheets/d/1SNeVMaw-Egg2AdQoALa8muJACGAaXt3I8TW6zDdqdZ4/edit?usp=sharing&embedded=true" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
-```
+{% embed url="https://docs.google.com/spreadsheets/d/1-rj2c5fbEQFsxZiIqAb7WXjRgkHnJONTaWlO8snfIpA/edit?usp=sharing" fullWidth="false" %}
 
 ### High Impact Actions (0.8 - 1.0)
 

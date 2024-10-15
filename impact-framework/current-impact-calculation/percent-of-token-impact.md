@@ -11,3 +11,7 @@ KlimaDAO's token value is backed by the amount of carbon credits the organizatio
 Asset- Toucan's BCT
 
 Toucan's BCT is a tokenized carbon credit so 100% of their token's value is impact related.&#x20;
+
+
+
+This percent is multiplied by the token score for a more accurate representation of the impact.&#x20;
