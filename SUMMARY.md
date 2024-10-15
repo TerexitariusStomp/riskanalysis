@@ -1,7 +1,13 @@
 # Table of contents
 
 * [Impact Framework](README.md)
+  * [Current Impact Calculation](impact-framework/current-impact-calculation/README.md)
+    * [Percent of Token Impact](impact-framework/current-impact-calculation/percent-of-token-impact.md)
+    * [Impact Category](impact-framework/current-impact-calculation/impact-category.md)
   * [Physical or Not](impact-framework/physical-or-not.md)
+  * [Protocol or Asset](impact-framework/protocol-or-asset.md)
+  * [Problem and Solution](impact-framework/problem-and-solution.md)
+  * [Who what when where why](impact-framework/who-what-when-where-why.md)
   * [SMART Goals](impact-framework/smart-goals.md)
 * [Interconnectedness Risk](interconnectedness-risk.md)
 * [Notes](notes.md)
