@@ -1,0 +1,3 @@
+# Energy availability
+
+Who benefits
