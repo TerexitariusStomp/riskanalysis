@@ -13,6 +13,7 @@
     * [Liquidity Score](financial-assessment/risk-adjustment-score/liquidity-score.md)
     * [Token and Liquidity Unlocks](financial-assessment/risk-adjustment-score/token-and-liquidity-unlocks.md)
     * [Token Issuance](financial-assessment/risk-adjustment-score/token-issuance.md)
+    * [Comparing Liquidation](financial-assessment/risk-adjustment-score/comparing-liquidation.md)
   * [Collateralization Ratio](financial-assessment/collateralization-ratio.md)
   * [Max Debt Ceiling](financial-assessment/max-debt-ceiling.md)
 * [Impact Framework](<README (1).md>)

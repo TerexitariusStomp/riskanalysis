@@ -17,3 +17,7 @@ B is the Total Liquidity&#x20;
 **Higher Liquidity Score (closer to 1)**: Indicates that the token has higher liquidity relative to its trading volume. This suggests that the token is more stable and easier to trade without impacting the price, which is favorable for collateral use.
 
 **Lower Liquidity Score (closer to 0)**: Indicates that the trading volume is high relative to the available liquidity, which could suggest potential price volatility and a higher risk of slippage. This makes the token less ideal for use as collateral.
+
+
+
+The liquidity that is assessed is the depth for our stablecoin to the other token.&#x20;
