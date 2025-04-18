@@ -1,2 +1,0 @@
-# 24 Hour Volume
-
