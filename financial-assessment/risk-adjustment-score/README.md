@@ -6,7 +6,7 @@ Risk Adjustment Score= B\*Y+C\*X+D\*W+E\*V+F\*U+G\*T
 
 Where
 
-A is the Ease of Liquidation Score
+B is the Ease of Liquidation Score
 
 Y is the Weighting of B
 
@@ -40,18 +40,33 @@ T is the Weighting of G
 
 Current Weights
 
-* **Holding Time Score (Z)**: 0.15
-* **Volatility Score (Y)**: 0.20
-* **Balance Score (X)**: 0.10
-* **All-time Risk Score (W)**: 0.05
-* **Time Since All Time Score (V)**: 0.05
-* **Time Since All Time High Score (U)**: 0.05
-* **Time Since All Time Low Score (T)**: 0.05
-* **Average Duration Score (S)**: 0.10
-* **Gainers Score (R)**: 0.10
-* **Liquidity Score (Q)**: 0.25
+Ease of Liquidation Score Y- 25%
+
+Supply Distribution Score X-  20%
+
+All-time Risk Score W-  10%
+
+Time Since All Time Score V- 10%
+
+&#x20;Intraday Volatiliity U- 15%
+
+Volatility Score T- 20%
 
 
+
+Justification of Weights-&#x20;
+
+Y- Directly impacts slippage risk and exchange stability. Deep liquidity pools (low volume-to-liquidity ratios) prevent market manipulation.&#x20;
+
+X- Measures dilution risk from unlocked tokens. Negative values signal future price shocks, requiring higher collateral buffers.
+
+W- Historical price extremes indicate long-term speculative behavior but are less predictive of near-term risks.
+
+V- Recent proximity to ATH/ATL suggests momentum trends but has limited bearing on structural liquidity.
+
+U- 24h price range reflects immediate market sentiment and short-term liquidation risks during margin calls
+
+T- Multi-timeframe volatility (1h to 90d) captures systemic price instability risks, critical for collateral backing stablecoins
 
 
 
