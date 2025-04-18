@@ -4,22 +4,20 @@ The "Volatility Score" is designed to measure how much the price of a token fluc
 
 **Volatilty Score is Composed Of The Price Change Over Different Time Periods**
 
-**Volatility Score= (A+B+C+D+E/5)\*.01**
+**Volatility Score= Absolute Value (A+B+C+D+E+F)**
 
 **Where**&#x20;
 
-**A is 24 Hours**
+**A is  1 hour**
 
-**B is 1 week**
+**B is 24 Hours**
 
-**C is 30 Days**
+**C is 1 week**
 
-**D is 60 Days**&#x20;
+**D is 30 Days**
 
-**E is 90 Days**
+**E is 60 Days**&#x20;
 
-**.01 is Applied to Bring Percent Score into Decimal**
+**F is 90 Day**
 
 A higher Volatility Score indicates that the token's price fluctuates more dramatically, making it potentially less suitable as stablecoin collateral due to increased risk of price instability. Conversely, a lower score reflects more stable price behavior over time, which is generally more desirable for collateral backing a stablecoin.&#x20;
-
-Negative scores indicate an overall decline in value, while positive indicate a rise in value. These are the most important attributes here.&#x20;

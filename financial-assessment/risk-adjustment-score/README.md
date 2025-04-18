@@ -2,19 +2,15 @@
 
 The "Risk Adjustment Score" is a composite metric that takes into account multiple factors influencing the risk profile of a token, with each factor weighted based on its relative importance. The formula aggregates these various scores to provide a comprehensive assessment of the token’s overall risk. Here's how it works:
 
-Risk Adjustment Score= A\*Z+B\*Y+C\*X+D\*W+E\*V+F\*U+G\*T+H\*S+I\*R+J\*Q
+Risk Adjustment Score= B\*Y+C\*X+D\*W+E\*V+F\*U+G\*T
 
 Where
 
-A is the Holding Time Score
-
-Z is the Weighting of A
-
-B is the Volatility Score
+A is the Ease of Liquidation Score
 
 Y is the Weighting of B
 
-C is the Balance Score
+C is the Supply Distribution Score
 
 X is the Weighting of C
 
@@ -26,27 +22,17 @@ E is the Time Since All Time Score
 
 V is the Weighting of E
 
-F is the Time Since All Time High Score
+F is the Intraday Volatiliity&#x20;
 
 U is the Weighting of F
 
-G is the Time Since All Time Low Score
+G is the Volatility Score
 
 T is the Weighting of G
 
-H is the Average Duration Score
-
-S is the Weighting of H
-
-I is the Gainers Score
-
-R is the Weighting of I
-
-J is the Liquidity Score
-
-Q is the Weighting of J
 
 
+**Before calculations the scores of each assessment methodology are normalized (assessment methodology example being ease of liquidation, normalized between 1 (best score) and 0 (worst score)).**&#x20;
 
 **A higher overall score** (from summing the weighted variables) indicates that the token is more suitable as collateral, while a **lower overall score** suggests higher risk and less suitability for collateral purposes
 
@@ -65,11 +51,7 @@ Current Weights
 * **Gainers Score (R)**: 0.10
 * **Liquidity Score (Q)**: 0.25
 
-#### Rationale Summary:
 
-* **Liquidity** and **volatility** are prioritized due to their direct impact on market stability and ease of trading. These factors are given the highest weights because they provide the clearest indicators of a token's risk when used as collateral.
-* **Holding time** and **average duration** are also important as they suggest how speculative or stable the token's holder base is, so they are moderately weighted.
-* **Balance**, **gainers**, and **time-related metrics** are still relevant, but they offer less immediate impact compared to liquidity and volatility, so they receive smaller weights.
 
 
 

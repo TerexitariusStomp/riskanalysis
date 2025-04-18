@@ -1,3 +1,3 @@
 # Fully Diluted Value Vs. Liquidity
 
-Liquidity / fully diluted value, 50% applied to value. want to prioritize deep liquidity and large FDV.&#x20;
+Deep liquidity allows collateral to be liquidated quickly and with minimal price impact, ensuring the process is both efficient and secure. Meanwhile, a high FDV often signals a project’s maturity, ongoing community engagement, and the potential for sustained liquidity. By selecting tokens that offer both deep liquidity and significant FDV, can minimize slippage, lower the risk of insolvency, and steer clear of assets prone to sudden supply shocks or market manipulation. This approach ensures that a large portion of the token’s value can be traded without causing major price swings, ultimately supporting safer and more reliable liquidations.
