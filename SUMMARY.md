@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Financial Assessment](README.md)
+  * [Prioritization](financial-assessment/prioritization/README.md)
+    * [Liquidity Value](financial-assessment/prioritization/liquidity-value.md)
+    * [Fully Diluted Value](financial-assessment/prioritization/fully-diluted-value.md)
+    * [Fully Diluted Value Vs. Liquidity](financial-assessment/prioritization/fully-diluted-value-vs.-liquidity.md)
+  * [Liquidity on Target Chain](financial-assessment/liquidity-on-target-chain.md)
   * [Risk Adjustment Score](financial-assessment/risk-adjustment-score/README.md)
     * [Holding Time Score](financial-assessment/risk-adjustment-score/holding-time-score.md)
     * [Volatility Score](financial-assessment/risk-adjustment-score/volatility-score.md)
