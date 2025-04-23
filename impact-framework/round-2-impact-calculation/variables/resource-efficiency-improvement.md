@@ -1,2 +1,0 @@
-# Resource efficiency improvement
-

@@ -1,3 +1,0 @@
-# Energy consumption
-
-Resources used

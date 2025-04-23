@@ -1,2 +1,0 @@
-# Problem and Solution
-

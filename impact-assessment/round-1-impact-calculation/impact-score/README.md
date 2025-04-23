@@ -4,7 +4,7 @@ There are currently 8 different scores that affect the overall impact score. 8 i
 
 The impact score is defined as follows.&#x20;
 
-S=A\*J+B\*K+C\*L+D\*M+E\*N+F\*O+G\*P+H\*Q
+S=A\*J+B\*K+C\*L+D\*M+E\*N+F\*O+G\*P
 
 Where&#x20;
 
@@ -14,15 +14,13 @@ B is the number of SDGs
 
 C is the SDG fulfillment
 
-D is  the ecological benefits framework&#x20;
+D is  the ecological benefits framework (analyzed separately for each aspect- air, water, soil, equity, biodiversity, carbon)
 
 E is the negative externalities&#x20;
 
-F is the third party verification of impact
+F is the number of people employed
 
-G is the number of people employed
-
-H is the number of hectares covered
+G is the number of hectares covered
 
 
 
@@ -34,12 +32,10 @@ K 10% is the number of SDGs
 
 L 15% is the SDG fulfillment
 
-M 15% is the ecological benefits framework&#x20;
+M 15% is for each part of the ecological benefits framework (analyzed separately for each aspect- air, water, soil, equity, biodiversity, carbon)
 
 N 15% is the negative externalities&#x20;
 
-O 10% is the third party verification of impact
+O 7.5% is the number of people employed
 
-P 7.5% is the number of people employed
-
-Q 7.5% is the number of hectares covered
+P 7.5% is the number of hectares covered
