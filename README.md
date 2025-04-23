@@ -1,8 +1,12 @@
 # Financial Assessment
 
-The financial assessment of assets currently under consideration for collateral can be seen at the link below.
+The financial assessment of assets currently under consideration for collateral.&#x20;
 
 
 
-Financial assessment [https://docs.google.com/spreadsheets/d/1ZSC9mISEWaOyXjw6xXMykQM8aIbcl9KPhy\_ja8iE--E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZSC9mISEWaOyXjw6xXMykQM8aIbcl9KPhy_ja8iE--E/edit?usp=sharing)
+For the current assessment spreadsheet visit below
+
+{% content-ref url="worksheets.md" %}
+[worksheets.md](worksheets.md)
+{% endcontent-ref %}
 

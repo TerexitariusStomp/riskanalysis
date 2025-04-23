@@ -4,8 +4,8 @@ Once the Financial and Impact assessment has been complete the data from both ar
 
 
 
-The combined score of assets currently under consideration for collateral can be seen at the link below.
+For the current assessment spreadsheet visit below
 
-
-
-Combined Score [https://docs.google.com/spreadsheets/d/1W52pSmIzSxbOhHYlCprWcJgCAC8-jd9Nhxvygu9f6jA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1W52pSmIzSxbOhHYlCprWcJgCAC8-jd9Nhxvygu9f6jA/edit?usp=sharing)
+{% content-ref url="../worksheets.md" %}
+[worksheets.md](../worksheets.md)
+{% endcontent-ref %}
