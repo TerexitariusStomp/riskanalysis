@@ -14,4 +14,8 @@ Toucan's BCT is a tokenized carbon credit so 100% of their token's value is impa
 
 
 
+In comparison USDGLO donates their profits to public good. Their profits are only around 4-8% of their asset value, so that is the amount that is % of their token's value related to impact.&#x20;
+
+
+
 This percent is multiplied by the token score for a more accurate representation of the impact.&#x20;

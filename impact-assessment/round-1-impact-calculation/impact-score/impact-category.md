@@ -16,7 +16,7 @@ All impact assets currently onchain can be categorized to 1 or more of these 17 
 
 ### Medium Impact Actions (0.45 - 0.55)
 
-**Hydroelectric (0.55)**: A renewable energy source with relatively low emissions that harnesses water flow. It's ranked lower due to potential ecosystem disruption.**Cooking (0.5)**: Energy-efficient cooking practices reduce fuel consumption and emissions. While important, its impact is more localized compared to larger-scale interventions.**Recycling (0.45)**: Reduces waste and conserves resources but has limited overall impact compared to other actions. It's an essential practice but doesn't address root causes of environmental issues.
+**Hydroelectric (0.55)**: A renewable energy source with relatively low emissions that harnesses water flow. It's ranked lower due to potential ecosystem disruption. **No Type (0.5)** actions that do not have a type or are composed of alot of different underlying activities recieve no type. **Cooking (0.5)**: Energy-efficient cooking practices reduce fuel consumption and emissions. While important, its impact is more localized compared to larger-scale interventions.**Recycling (0.45)**: Reduces waste and conserves resources but has limited overall impact compared to other actions. It's an essential practice but doesn't address root causes of environmental issues.
 
 ### Lower Impact Actions (0.2 - 0.4)
 
