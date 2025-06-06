@@ -1,5 +1,3 @@
 # Liquidity Lock
 
-Liquidity locks are checked to determine the value of liquidity locked up this liquidity is both AZUSD to token as well as any token to target token.&#x20;
-
-Locked liquidity provides additional incentive alignment by recognizing long-term commitment from liquidity providers and reducing the risk of sudden liquidity withdrawal that could impact the asset's viability as collateral.
+Locked liquidity analysis encompasses both AZUSD-to-token pairs and token-to-target-token combinations to assess long-term commitment levels from liquidity providers. Liquidity locks provide additional incentive alignment by recognizing sustained commitment while reducing risks associated with sudden liquidity withdrawal that could compromise asset viability as collateral. These mechanisms enhance protocol stability by ensuring that collateral assets maintain adequate market depth over extended periods.

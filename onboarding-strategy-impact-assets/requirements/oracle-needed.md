@@ -1,3 +1,3 @@
 # Oracle Needed
 
-An oracle that tracks the value of the asset wanting to be considered for collateral also needs to be available for the assessment. For example oracles from- [https://www.diadata.org/](https://www.diadata.org/)
+Robust price discovery mechanisms through compatible oracle networks constitute an essential technical requirement for all potential collateral assets. Oracle providers such as DIA Data facilitate real-time price feeds that enable accurate collateral valuation and liquidation mechanisms. The oracle requirement ensures that asset valuations reflect current market conditions and provide reliable triggers for automated protocol functions.

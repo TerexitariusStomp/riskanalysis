@@ -1,3 +1,3 @@
 # Already Tokenized
 
-Does it have an ERC20 or other token related to the impact you are creating (for example an erc20 of a carbon credit). We only accept tokenized assets currently.
+Assets must possess ERC20 or equivalent token standards that represent the underlying impact being created, such as tokenized carbon credits or renewable energy certificates. This requirement ensures standardized interface compatibility and facilitates seamless integration with existing DeFi infrastructure. The tokenization standard enables programmatic interaction with smart contracts while maintaining transparent on-chain representation of environmental or social impact metrics.

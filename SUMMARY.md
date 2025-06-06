@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Onboarding Strategy Impact Assets](README.md)
+* [Page](README.md)
+* [Onboarding Strategy Impact Assets](<README (3).md>)
   * [Requirements](onboarding-strategy-impact-assets/requirements/README.md)
     * [Already Tokenized](onboarding-strategy-impact-assets/requirements/already-tokenized.md)
     * [Operational](onboarding-strategy-impact-assets/requirements/operational.md)

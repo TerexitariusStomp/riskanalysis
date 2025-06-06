@@ -1,7 +1,5 @@
 # Physical or Digital
 
-For your work do you have a physical connection to a place(s) or is your work entirely digital?  We prioritize physical as we are better able to portray the impact through these types of assets with geospatial analysis techniques.&#x20;
+Assets with physical geographical connections receive preferential treatment due to enhanced impact verification capabilities through geospatial analysis techniques. Physical assets, such as carbon credits connected to specific reforestation projects, enable more robust monitoring and verification compared to purely digital market platforms. This prioritization aligns with emerging standards for environmental asset verification and enhances the protocol's ability to demonstrate real-world impact through spatial analysis methodologies.
 
-Physical: A carbon credit connected to a reforestation project in Madagascar.
-
-Digital: A carbon market with no meaningful physical connection to the projects that are on their market.&#x20;
+\
