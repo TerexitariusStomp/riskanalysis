@@ -4,3 +4,5 @@ The target chain is defined as the chain on which we have setup our smart contra
 
 In order to encourage an asset to migrate liquidity to a target chain, we may accept the asset with a very low max collateral amount at first and dynamically adjust the collateral amount as more liquidity is added to the target chain.&#x20;
 
+The target chain in which we have our contracts deployed is specified in the dev documents under contracts.&#x20;
+

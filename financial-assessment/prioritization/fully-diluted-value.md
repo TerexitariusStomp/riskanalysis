@@ -1,3 +1,0 @@
-# Fully Diluted Value
-
-Tokens with a higher fully diluted value (FDV) generally signal projects with substantial overall value, which often translates to greater market depth and liquidity. This depth is important because it reduces slippage and minimizes the risk of significant price impact when collateral needs to be liquidated, thereby safeguarding both the protocol and its users. Additionally, projects boasting a large FDV are typically more established, supported by robust communities, proven use cases, and significant backing—all of which enhance the perceived safety and reliability of these assets when used as collateral.
