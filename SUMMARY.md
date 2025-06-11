@@ -15,6 +15,7 @@
       * [Financial](onboarding-strategy-impact-assets/prioritization/campaign/financial/README.md)
         * [Liquidity Value](onboarding-strategy-impact-assets/prioritization/campaign/financial/liquidity-value/README.md)
           * [Liquidity on Target Chain](onboarding-strategy-impact-assets/prioritization/campaign/financial/liquidity-value/liquidity-on-target-chain.md)
+          * [Top Pair Liquidity](onboarding-strategy-impact-assets/prioritization/campaign/financial/liquidity-value/top-pair-liquidity.md)
           * [Liquidity Lock](onboarding-strategy-impact-assets/prioritization/campaign/financial/liquidity-value/liquidity-lock.md)
         * [Fully Diluted Value Vs. Liquidity](onboarding-strategy-impact-assets/prioritization/campaign/financial/fully-diluted-value-vs.-liquidity.md)
         * [Genesis Collateral](onboarding-strategy-impact-assets/prioritization/campaign/financial/genesis-collateral.md)
