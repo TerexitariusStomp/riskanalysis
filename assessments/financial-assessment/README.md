@@ -6,7 +6,7 @@ The financial assessment of assets currently under consideration for collateral.
 
 For the current assessment spreadsheet visit below
 
-{% content-ref url="worksheets.md" %}
-[worksheets.md](worksheets.md)
+{% content-ref url="../worksheets.md" %}
+[worksheets.md](../worksheets.md)
 {% endcontent-ref %}
 

@@ -6,6 +6,6 @@ Once the Financial and Impact assessment has been complete the data from both ar
 
 For the current assessment spreadsheet visit below
 
-{% content-ref url="../worksheets.md" %}
-[worksheets.md](../worksheets.md)
+{% content-ref url="../assessments/worksheets.md" %}
+[worksheets.md](../assessments/worksheets.md)
 {% endcontent-ref %}
