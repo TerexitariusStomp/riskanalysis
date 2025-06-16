@@ -56,4 +56,5 @@
     * [Geospatial Analysis](assessments/impact-assessment/geospatial-analysis.md)
     * [Collateral Results](assessments/impact-assessment/collateral-results.md)
   * [Worksheets](assessments/worksheets.md)
+* [Onchain Recording](onchain-recording.md)
 * [Impact Per AZUSD](impact-per-azusd.md)
