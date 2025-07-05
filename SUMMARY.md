@@ -32,6 +32,7 @@
       * [Time Since All Time Score](assessments/financial-assessment/risk-adjustment-score/time-since-all-time-score.md)
       * [Intraday Volatility](assessments/financial-assessment/risk-adjustment-score/intraday-volatility.md)
       * [Volatility Score](assessments/financial-assessment/risk-adjustment-score/volatility-score.md)
+      * [Perpetuals](assessments/financial-assessment/risk-adjustment-score/perpetuals.md)
     * [Max Collateral Amount](assessments/financial-assessment/max-collateral-amount.md)
     * [Comparing Liquidation](assessments/financial-assessment/comparing-liquidation.md)
     * [Potential Future Metrics](assessments/financial-assessment/potential-future-metrics/README.md)
