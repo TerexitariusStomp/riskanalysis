@@ -10,7 +10,7 @@ HLSp and USDGLO have minimal changes as they are designed to be pegged to $1 USD
 
 Volatile Assets
 
-WETH and KLIMA are both volatile assets. Klima has shown a -12% drop in value over 60 days. This means that if the vault were to have been created 60 days ago, a maximum amount of debt taken from that vault and no maintenance was done on the vault; it would be about 8% away from the liquidation ratio. Both Klima and Ethereum are risky assets, with Klima receiving a financial risk score twice as risky as Ethereum (see financial assessment for more details). As such a standard 30% buffer was placed on both assets.&#x20;
+WETH and KLIMA are both volatile assets. Klima has shown a -12% drop in value over 60 days. This means that if the vault were to have been created 60 days ago, a maximum amount of debt taken from that vault and no maintenance was done on the vault; it would be about 18% away from the liquidation ratio. Both Klima and Ethereum are risky assets, with Klima receiving a financial risk score twice as risky as Ethereum (see financial assessment for more details). As such a standard 30% buffer was placed on both assets.&#x20;
 
 | Token  | HourNegative | DayNegative | WeekNegative | 30daysNegative | 60DaysNegative |
 | ------ | ------------ | ----------- | ------------ | -------------- | -------------- |
