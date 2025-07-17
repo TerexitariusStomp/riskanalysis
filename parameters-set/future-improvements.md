@@ -14,4 +14,12 @@ Monitoring: Market conditions should be continuously monitored. If liquidity or 
 
 Measured of volatility changes of assets. To give a better overall average volatility and adjusting ratios accordingly.&#x20;
 
+## No OTC or Assets Needing Redeeming
+
+As both OTC and redeeming of assets rely on trusting a counterparty to fulfill a commitment in a non-automated fashion, it exposes a good deal of risk to the protocol. Minimizing risk should be one of our priorities and as such, minimizing the amounts we are exposed to OTC deals or redemption of assets should be an action we take.&#x20;
+
+## Total Liquidity
+
+Enabling the collection of all liquidity data across chains for all collateral assets (main one missing currently is ETH).&#x20;
+
 \

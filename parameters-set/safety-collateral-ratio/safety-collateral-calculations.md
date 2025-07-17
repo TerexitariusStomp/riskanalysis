@@ -1,6 +1,6 @@
-# Liquidation Buffer
+# Safety Collateral Calculations
 
-The liquidation buffer is further determined through the volatility of the asset as well as the financial risk score.&#x20;
+The Safety Collatearl Ratio is determined through the volatility of the asset as well as the financial risk score.&#x20;
 
 Let's examine the initial collateral assets of Azos.&#x20;
 
